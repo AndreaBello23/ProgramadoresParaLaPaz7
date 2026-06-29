@@ -1,0 +1,3 @@
+Al consultar los reportes por medio del metodo GET en la ruta "/reportes", se pueden observar los reportes registrados
+con anterioridad por medio del metodo POST en un formato JSON, con una llave llamada "id" que identifica de forma única
+cada uno de los reportes.

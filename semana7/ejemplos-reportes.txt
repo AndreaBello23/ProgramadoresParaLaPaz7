@@ -1,0 +1,10 @@
+Ejemplo 1:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en casa comunal"
+}
+Ejemplo 2:
+{
+  "tipo": "Ambiental",
+  "descripcion": "Desbordamiento del sistema de alcantarillado en la comunidad"
+}
